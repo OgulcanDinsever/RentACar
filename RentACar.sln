@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar.Win.UI", "RentACar.Win.UI\RentACar.Win.UI.csproj", "{62268746-5C09-4AE9-8B66-6522B91333FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar.Helpers", "RentACar.Helpers\RentACar.Helpers.csproj", "{BBD610A5-E19E-4734-8A7E-8383B90FEA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar.Entities", "RentACar.Entities\RentACar.Entities.csproj", "{1BC9157E-2763-4C8E-8671-C369A1B20C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar.DAL", "RentACar.DAL\RentACar.DAL.csproj", "{E5A8F944-B895-4F21-B687-0FD32044BF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar.BLL", "RentACar.BLL\RentACar.BLL.csproj", "{92101E37-A9AA-4C25-B637-7B6FB801C474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62268746-5C09-4AE9-8B66-6522B91333FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62268746-5C09-4AE9-8B66-6522B91333FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62268746-5C09-4AE9-8B66-6522B91333FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62268746-5C09-4AE9-8B66-6522B91333FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD610A5-E19E-4734-8A7E-8383B90FEA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD610A5-E19E-4734-8A7E-8383B90FEA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD610A5-E19E-4734-8A7E-8383B90FEA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD610A5-E19E-4734-8A7E-8383B90FEA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC9157E-2763-4C8E-8671-C369A1B20C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC9157E-2763-4C8E-8671-C369A1B20C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC9157E-2763-4C8E-8671-C369A1B20C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC9157E-2763-4C8E-8671-C369A1B20C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A8F944-B895-4F21-B687-0FD32044BF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A8F944-B895-4F21-B687-0FD32044BF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A8F944-B895-4F21-B687-0FD32044BF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A8F944-B895-4F21-B687-0FD32044BF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92101E37-A9AA-4C25-B637-7B6FB801C474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92101E37-A9AA-4C25-B637-7B6FB801C474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92101E37-A9AA-4C25-B637-7B6FB801C474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92101E37-A9AA-4C25-B637-7B6FB801C474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A37A493-6B8C-4CCC-8CD5-468DF82F62F7}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://onurolker777.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RentACar.BLL\\RentACar.BLL.csproj
+		SccProjectName1 = RentACar.BLL
+		SccLocalPath1 = RentACar.BLL
+		SccProjectUniqueName2 = RentACar.DAL\\RentACar.DAL.csproj
+		SccProjectName2 = RentACar.DAL
+		SccLocalPath2 = RentACar.DAL
+		SccProjectUniqueName3 = RentACar.Entities\\RentACar.Entities.csproj
+		SccProjectName3 = RentACar.Entities
+		SccLocalPath3 = RentACar.Entities
+		SccProjectUniqueName4 = RentACar.Helpers\\RentACar.Helpers.csproj
+		SccProjectName4 = RentACar.Helpers
+		SccLocalPath4 = RentACar.Helpers
+		SccProjectUniqueName5 = RentACar.Win.UI\\RentACar.Win.UI.csproj
+		SccProjectName5 = RentACar.Win.UI
+		SccLocalPath5 = RentACar.Win.UI
+	EndGlobalSection
+EndGlobal
